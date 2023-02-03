@@ -1,0 +1,16 @@
+{
+	"haxe.configurations": [
+		["debug.hxml"],
+	],
+
+	"haxe.displayPort": 6001,
+	"haxe.enableCompilationServer" : true,
+	
+	"haxe.displayServer": {
+		"arguments": [
+			"-v"
+		]
+	},
+	
+	"haxe.enableServerView": true,
+}
